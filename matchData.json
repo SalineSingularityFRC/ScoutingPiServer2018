@@ -1,0 +1,1 @@
+{"scale": [], "matchID": "test", "switchEnemy": [{"type": "endgame", "time": 15000}], "switchFriendly": [], "climbSkill": 2, "autonSkill": 0, "startingPos": -1, "portal": [{"type": "endgame", "time": 0}, {"type": "endgame", "time": 0}], "onBlue": true, "team": 5066, "vault": [{"type": "endgame", "time": 0}]}
