@@ -7,8 +7,8 @@ server_sock.listen(1)
 
 port=server_sock.getsockname()[1]
 
-uuid="4f63aea8-be86-4f54-b8c8-2f0c9d37b56b"
-name="Super Singularity Scouting Server"
+uuid="Your UUID goes here. Google bluetooth uuid generator"
+name="Your Clever Scouting Server Name Goes here (not super important). Remember to pair the devices being used with this server beforehand."
 
 advertise_service(server_sock, name,
 	service_id = uuid,
